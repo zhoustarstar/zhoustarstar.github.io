@@ -3,13 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://zhoustarstar.github.io/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <loc>http://zhoustarstar.github.io/post/first/</loc>
+    <lastmod>2020-04-29T11:30:36+08:00</lastmod>
   </url>
   
   <url>
     <loc>http://zhoustarstar.github.io/post/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-29T11:30:36+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://zhoustarstar.github.io/adout/</loc>
+    <lastmod>2020-04-29T11:09:49+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://zhoustarstar.github.io/</loc>
+    <lastmod>2020-04-29T11:09:49+08:00</lastmod>
   </url>
   
   <url>
